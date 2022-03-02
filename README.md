@@ -1,5 +1,5 @@
 # GDP-AND-INCOME-ANALYSIS
-The countries where employer's contribution to pension and insurance is greater than 7000.
+The counties where employer's contribution to pension and insurance is greater than 7000.
 Row	GeoName	
 1	
 Pennington, MN
@@ -28,7 +28,7 @@ Row	Highest_Earning
 1	
 11159450000
 
-Top 10 countries with highest per capita net earnings
+Top 10 counties with highest per capita net earnings
 Row	GeoName	
 1	
 Shackelford, TX
@@ -50,6 +50,11 @@ Midland, TX
 Shackelford, TX
 10	
 Midland, TX
+
+Number of counties with percapita personal income greater than or equal to 50000
+Row	f0_	
+1	
+3286
 
 
 
