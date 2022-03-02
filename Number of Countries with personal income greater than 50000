@@ -1,0 +1,1 @@
+SELECT COUNT(GeoName) FROM `bigquery-public-data.sdoh_bea_cainc30.fips` WHERE Percapita_personal_income	>=50000  LIMIT 100
