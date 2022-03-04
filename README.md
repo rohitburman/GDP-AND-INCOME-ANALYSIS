@@ -4,7 +4,7 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156700823-06733b9c-12e8-493f-a731-a178e1bfafdb.png)
 
-2. Highest Net Earnings as per residence
+2. What is the Highest Net Earnings as per residence
 
 ![image](https://user-images.githubusercontent.com/100778333/156701105-4a2de85b-3a44-4608-9b08-f90e0cd5b0c8.png)
 
