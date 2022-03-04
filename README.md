@@ -6,9 +6,7 @@ The counties where employer's contribution to pension and insurance is greater t
 
 2. Highest Net Earnings as per residence
 
-Row	Highest_Earning	
-1	
-11159450000
+![image](https://user-images.githubusercontent.com/100778333/156701105-4a2de85b-3a44-4608-9b08-f90e0cd5b0c8.png)
 
 Top 10 counties with highest per capita net earnings
 Row	GeoName	
