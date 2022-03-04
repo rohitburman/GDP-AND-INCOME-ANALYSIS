@@ -1,29 +1,11 @@
-# GDP-AND-INCOME-ANALYSIS
+1. GDP-AND-INCOME-ANALYSIS
+
 The counties where employer's contribution to pension and insurance is greater than 7000.
-Row	GeoName	
-1	
-Pennington, MN
-2	
-Passaic, NJ
-3	
-Bristol, MA
-4	
-Sumter, FL
-5	
-Clay, NC
-6	
-Polk, NC
-7	
-Watauga, NC
-8	
-Gates, NC
-9	
-Macon, NC
-10	
-Transylvania, NC
 
+![image](https://user-images.githubusercontent.com/100778333/156700823-06733b9c-12e8-493f-a731-a178e1bfafdb.png)
 
-Highest Net Earnings as per residence
+2. Highest Net Earnings as per residence
+
 Row	Highest_Earning	
 1	
 11159450000
