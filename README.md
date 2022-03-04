@@ -8,7 +8,7 @@ The counties where employer's contribution to pension and insurance is greater t
 
 ![image](https://user-images.githubusercontent.com/100778333/156701105-4a2de85b-3a44-4608-9b08-f90e0cd5b0c8.png)
 
-Top 10 counties with highest per capita net earnings
+3. Top 10 counties with highest per capita net earnings
 Row	GeoName	
 1	
 Shackelford, TX
@@ -31,10 +31,9 @@ Shackelford, TX
 10	
 Midland, TX
 
-Number of counties with percapita personal income greater than or equal to 50000
-Row	f0_	
-1	
-3286
+4. Number of counties with percapita personal income greater than or equal to 50000
+
+![image](https://user-images.githubusercontent.com/100778333/156701976-95066c79-51bc-437d-9733-373158a4081c.png)
 
 
 
