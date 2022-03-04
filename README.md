@@ -1,4 +1,4 @@
-1. GDP-AND-INCOME-ANALYSIS
+1. #GDP-AND-INCOME-ANALYSIS, International Census Analysis and 
 
 Which are the counties where employer's contribution to pension and insurance is greater than 7000?
 
@@ -19,6 +19,16 @@ Which are the counties where employer's contribution to pension and insurance is
 5.What is the average wages and salaries of the counties situated in Florida?
 
 ![image](https://user-images.githubusercontent.com/100778333/156736246-42fb7a76-917d-4c8a-aae6-a013f80a17b0.png)
+
+5.What is the Population proportion according International Census population as per the country codes?
+
+![image](https://user-images.githubusercontent.com/100778333/156813157-a783243f-732e-4edd-89d8-5317a2565ef0.png)
+
+What are the employer identification numbers whose interest revenue > 1000 and total revenue is between 1,50,000 and 2,50,000 IN 2015?
+
+![image](https://user-images.githubusercontent.com/100778333/156820954-28ff8074-11a4-4ad1-89b0-84faf09de6bb.png)
+
+
 
 
 
