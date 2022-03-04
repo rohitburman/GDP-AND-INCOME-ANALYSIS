@@ -1,6 +1,6 @@
 1. GDP-AND-INCOME-ANALYSIS
 
-The counties where employer's contribution to pension and insurance is greater than 7000.
+Which are the counties where employer's contribution to pension and insurance is greater than 7000?
 
 ![image](https://user-images.githubusercontent.com/100778333/156700823-06733b9c-12e8-493f-a731-a178e1bfafdb.png)
 
