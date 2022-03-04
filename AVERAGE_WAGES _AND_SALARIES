@@ -1,4 +1,4 @@
--- What is the 
+ What is the average wages and salaries of counties situated in Florida? 
 
 SELECT GeoName, AVG(Wages_and_salaries) AS avg_wages 
 FROM `bigquery-public-data.sdoh_bea_cainc30.fips`
