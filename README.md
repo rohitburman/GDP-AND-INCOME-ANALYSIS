@@ -16,7 +16,7 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156701976-95066c79-51bc-437d-9733-373158a4081c.png)
 
-5.
+5.What is the average wages and salaries of the counties situated in Florida?
 
 ![image](https://user-images.githubusercontent.com/100778333/156736246-42fb7a76-917d-4c8a-aae6-a013f80a17b0.png)
 
