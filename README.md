@@ -48,11 +48,15 @@ What are the cases relating to assault in Austin in the year 2016?
 
 ![image](https://user-images.githubusercontent.com/100778333/156870830-c9d17dd4-0bbe-4447-9f86-c87023cde778.png)
 
-9.Which county codes have medicaid as a source of payment?
+9. county_natality1(JOIN).sql
+
+Which county codes have medicaid as a source of payment?
 
 ![image](https://user-images.githubusercontent.com/100778333/156872676-732763d7-76da-458a-a28b-6519b7fd6107.png)
 
-10.What are the highest number of births in the respective residential counties where the average age of mother is in the range of 25 and 32?
+10. county_natality2.sql
+
+What are the highest number of births in the respective residential counties where the average age of mother is in the range of 25 and 32?
 
 ![image](https://user-images.githubusercontent.com/100778333/156874166-d16a3b4a-819b-4cb2-b8b8-31483e2264c5.png)
 
