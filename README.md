@@ -12,7 +12,9 @@ What is the Highest Net Earnings as per residence
 
 ![image](https://user-images.githubusercontent.com/100778333/156701105-4a2de85b-3a44-4608-9b08-f90e0cd5b0c8.png)
 
-3. Which are the Top 10 counties with highest per capita net earnings?
+3. Per capita net earnings.sql 
+
+Which are the Top 10 counties with highest per capita net earnings?
 
 ![image](https://user-images.githubusercontent.com/100778333/156702131-621baad5-524b-49aa-96c7-1615feee134b.png)
 
