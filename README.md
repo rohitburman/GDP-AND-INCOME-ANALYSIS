@@ -6,7 +6,9 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156700823-06733b9c-12e8-493f-a731-a178e1bfafdb.png)
 
-2. What is the Highest Net Earnings as per residence
+2. Net_Earnings.sql
+
+What is the Highest Net Earnings as per residence
 
 ![image](https://user-images.githubusercontent.com/100778333/156701105-4a2de85b-3a44-4608-9b08-f90e0cd5b0c8.png)
 
@@ -32,7 +34,9 @@ What is the Population proportion according International Census population as p
 
 ![image](https://user-images.githubusercontent.com/100778333/156813157-a783243f-732e-4edd-89d8-5317a2565ef0.png)
 
-7.What are the employer identification numbers whose interest revenue > 1000 and total revenue is between 1,50,000 and 2,50,000 IN 2015?
+7. Interest revenue and Total revenue.sql
+
+What are the employer identification numbers whose interest revenue > 1000 and total revenue is between 1,50,000 and 2,50,000 IN 2015?
 
 ![image](https://user-images.githubusercontent.com/100778333/156820954-28ff8074-11a4-4ad1-89b0-84faf09de6bb.png)
 
