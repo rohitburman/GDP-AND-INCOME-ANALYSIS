@@ -20,7 +20,9 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156736246-42fb7a76-917d-4c8a-aae6-a013f80a17b0.png)
 
-6.What is the Population proportion according International Census population as per the country codes?
+6. Age_specific_Population(JOIN).sql
+
+What is the Population proportion according International Census population as per the country codes?
 
 ![image](https://user-images.githubusercontent.com/100778333/156813157-a783243f-732e-4edd-89d8-5317a2565ef0.png)
 
