@@ -14,7 +14,9 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156702131-621baad5-524b-49aa-96c7-1615feee134b.png)
 
-4. What are the Number of counties where percapita personal income or personal income greater than or equal to 50000?
+4. GDP and Income Analysis.sql
+
+What are the Number of counties where percapita personal income or personal income greater than or equal to 50000?
 
 ![image](https://user-images.githubusercontent.com/100778333/156701976-95066c79-51bc-437d-9733-373158a4081c.png)
 
