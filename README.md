@@ -36,6 +36,11 @@ Which are the counties where employer's contribution to pension and insurance is
 
 ![image](https://user-images.githubusercontent.com/100778333/156872676-732763d7-76da-458a-a28b-6519b7fd6107.png)
 
+10.What are the highest number of births in the respective residential counties where the average age of mother is in the range of 25 and 32?
+
+![image](https://user-images.githubusercontent.com/100778333/156874166-d16a3b4a-819b-4cb2-b8b8-31483e2264c5.png)
+
+
 
 
 
